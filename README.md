@@ -127,19 +127,7 @@ Das OLED Display zeigt:
 
 ## Lizenz
 
-Dieses Projekt steht unter der **MIT License**.
-
----
-
-## Erweiterungen (Ideen)
-
-Mögliche zukünftige Erweiterungen:
-
-* Deep Sleep zur Stromersparnis
-* Batterieüberwachung
-* OTA Updates
-* mehrere Sensoren
-* Integration in Home Assistant
+Dieses Projekt steht unter der MIT-Lizenz. Du darfst den Code frei verwenden, kopieren und anpassen.
 
 ---
 
