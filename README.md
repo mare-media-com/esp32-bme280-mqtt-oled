@@ -145,4 +145,4 @@ Mögliche zukünftige Erweiterungen:
 
 ## Autor
 
-Projekt erstellt von **Mare Media**.
+Projekt erstellt von **codewerkstatt @ mare-media.com**.
