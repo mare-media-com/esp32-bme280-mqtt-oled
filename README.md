@@ -119,12 +119,6 @@ Das OLED Display zeigt:
 
 ---
 
-## Screenshot
-
-(Optional: hier später ein Bild des Displays einfügen)
-
----
-
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Du darfst den Code frei verwenden, kopieren und anpassen.
